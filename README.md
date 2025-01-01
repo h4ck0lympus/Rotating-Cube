@@ -2,6 +2,8 @@
 
 A simple demo that renders and rotates a 3D cube using [SDL2](https://www.libsdl.org). The cube is defined by its 8 vertices, which are rotated about the X and Y axes based on user input. The edges are drawn with a classic Bresenham line algorithm, and an isometric projection is used to project 3D points onto the 2D screen.
 
+![Demo Image](./demo.png) 
+
 ## Features
 - **Manual 3D Rotation**: Rotate the cube around its X/Y axes in response to arrow key inputs.
 - **Isometric Projection**: Maps the 3D coordinates onto the 2D window surface.
